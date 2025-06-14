@@ -1,6 +1,7 @@
 # 🔥면접 대비 CS 스터디
 
 [![Since](https://img.shields.io/badge/since-2024.12.19-333333.svg?style=flat-square)](https://github.com/ChoonsikDevLab/CS-Study)
+[![Until](https://img.shields.io/badge/until-2025.02.15-333333.svg?style=flat-square)](https://github.com/ChoonsikDevLab/Frog-Study)
 
 ![image](https://github.com/user-attachments/assets/23b4013d-8a06-4cf7-812d-707e61e437a0)
 
